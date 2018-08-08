@@ -16,8 +16,8 @@ NEWSPIDER_MODULE = 'dingdian.spiders'
 
 # 改配置写在config.py数据库配置中
 MYSQL_HOSTS = '127.0.0.1'
-MYSQL_USER = 'root'
-MYSQL_PASSWORD = '1081550124'
+MYSQL_USER = 'root' #填写自己的mysql账号
+MYSQL_PASSWORD = '********' #填写自己的密码
 MYSQL_PORT = '3306'
 MYSQL_DB = 'xiaoshuo'
 
